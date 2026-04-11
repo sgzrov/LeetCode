@@ -1,1 +1,3 @@
-# LeetCode
+## LeetCode
+
+LeetCode for CS245
